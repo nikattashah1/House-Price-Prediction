@@ -1,8 +1,7 @@
-# ============================================================
 # STEP 1: DATA CLEANING
 # Reads the raw dataset, cleans it and saves cleaned_house_data.csv
 # Run:  python 1_data_cleaning.py
-# ============================================================
+
 import os
 import pandas as pd
 
