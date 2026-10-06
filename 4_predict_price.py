@@ -1,8 +1,7 @@
-# ============================================================
 # STEP 4: PREDICT THE PRICE OF A NEW HOUSE (text version)
 # Asks for the house details and prints all three predicted prices.
 # Run:  python 4_predict_price.py
-# ============================================================
+
 import joblib
 import pandas as pd
 

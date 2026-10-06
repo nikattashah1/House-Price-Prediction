@@ -1,8 +1,7 @@
-# ============================================================
 # STEP 6: PREDICTION WINDOW (Tkinter GUI)
 # The same prediction as Step 4, but in a window with a button.
 # Run:  python 6_predict_gui.py
-# ============================================================
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import joblib

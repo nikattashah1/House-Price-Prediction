@@ -1,9 +1,8 @@
-# ============================================================
 # STEP 3: TRAIN 3 MODELS AND COMPARE THEIR ACCURACY
 # Trains Linear Regression, Decision Tree and Random Forest,
 # compares them, and saves all three models.
 # Run:  python 3_train_model.py
-# ============================================================
+
 import os
 import joblib
 import numpy as np

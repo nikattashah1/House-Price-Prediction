@@ -1,8 +1,7 @@
-# ============================================================
 # STEP 2: DATA VISUALIZATION
 # Draws charts from the cleaned data and saves them in the "charts" folder
 # Run:  python 2_data_visualization.py
-# ============================================================
+
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
