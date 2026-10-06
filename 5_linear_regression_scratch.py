@@ -1,4 +1,4 @@
-]# STEP 5: LINEAR REGRESSION FROM SCRATCH (using NumPy only)
+# STEP 5: LINEAR REGRESSION FROM SCRATCH (using NumPy only)
 # Shows how a model learns using gradient descent, a cost function
 # and a learning rate. The result is compared with scikit-learn.
 # Run:  python 5_linear_regression_scratch.py
